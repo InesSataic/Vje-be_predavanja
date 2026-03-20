@@ -1,0 +1,12 @@
+<Student>
+<ime>Ines</ime>
+<prezime>Sataic</prezime>
+<godinaStudija>2</godinaStudija>
+<jmbg>0246124718</jmbg>
+<datum>2025-03-20</datum>
+<adresa>
+<ulica>Podravska</ulica>
+<grad>Koprivnica</grad>
+<postanskibroj>48000</postanskibroj>
+</adresa>
+</Student>
