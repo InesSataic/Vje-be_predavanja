@@ -1,0 +1,28 @@
+<Student>
+<ime>Ines</ime>
+<prezime>Sataic</prezime>
+<godinaStudija>2</godinaStudija>
+<jmbg>1234567890123</jmbg>
+<datum>2025-03-20</datum>
+<kontakt>
+<email>isataic@tvz.hr</email>
+<telefon>0989241903</telefon>
+</kontakt>
+<PopisKolegija>
+<kolegij>
+<naziv>Upravljanje poslovnim informacijama</naziv>
+<imeprof>Roman Domović</imeprof>
+<ects>3</ects>
+</kolegij>
+<kolegij>
+<naziv>Upravljanje poslovnim informacijama</naziv>
+<imeprof>Roman Domović</imeprof>
+<ects>3</ects>
+</kolegij>
+<kolegij>
+<naziv>Upravljanje poslovnim informacijama</naziv>
+<imeprof>Roman Domović</imeprof>
+<ects>3</ects>
+</kolegij>
+</PopisKolegija>
+</Student>
