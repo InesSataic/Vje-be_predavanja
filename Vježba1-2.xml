@@ -12,17 +12,17 @@
 <kolegij>
 <naziv>Upravljanje poslovnim informacijama</naziv>
 <imeprof>Roman Domović</imeprof>
-<ects>3</ects>
+<ects>4</ects>
 </kolegij>
 <kolegij>
-<naziv>Upravljanje poslovnim informacijama</naziv>
-<imeprof>Roman Domović</imeprof>
-<ects>3</ects>
+<naziv>Podatkovna povezansot i digitalna infrastruktura</naziv>
+<imeprof>Alen Šimec</imeprof>
+<ects>4</ects>
 </kolegij>
 <kolegij>
-<naziv>Upravljanje poslovnim informacijama</naziv>
-<imeprof>Roman Domović</imeprof>
-<ects>3</ects>
+<naziv>Baze podataka</naziv>
+<imeprof>Tin Kramberger</imeprof>
+<ects>5</ects>
 </kolegij>
 </PopisKolegija>
 </Student>
