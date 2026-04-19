@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Osoba spol="M">
+    
+    <Ime>Marko</Ime>
+    <Prezime>Marić</Prezime>
+
+    <MjestoStanovanja>
+        <Adresa>Savska cesta 1</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+
+    <Kontakt>
+        <Mobitel>091/123-4567</Mobitel>
+        <KucniTelefon>01/1234-567</KucniTelefon>
+        <Email>marko.maric@primjer.hr</Email>
+    </Kontakt>
+
+</Osoba>
