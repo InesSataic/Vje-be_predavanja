@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osoba>
+    <ime>Ivana Horvat</ime>
+    <cijena>199.99</cijena>
+    <godine>28</godine>
+    <aktivan>true</aktivan>
+    <datumRodjenja>1995-06-12</datumRodjenja>
+    <vrijemePocetka>08:30:00</vrijemePocetka>
+</osoba>
