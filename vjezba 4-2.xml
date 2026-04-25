@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<narudzba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <stavka valuta="EUR">
+        <nazivProizvoda>Prijenosno računalo</nazivProizvoda>
+        <kolicina>25</kolicina>
+        <statusNarudzbe>prijavljen</statusNarudzbe>
+    </stavka>
+</narudzba>
